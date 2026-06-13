@@ -20,6 +20,15 @@ ground truth.
     cd corpus-keeper
     python3 corpus_keeper.py audit demo_corpus
 
+    FINDING [links] CORPUS_INDEX.md: broken link -> roadmap.md
+    FINDING [links] welcome.md: broken link -> guides/setup.md
+    FINDING [ascii] welcome.md: non-ASCII byte at offset 101
+    FINDING [index] CORPUS_INDEX.md: index entry has no file -> roadmap.md
+    FINDING [index] unlisted_note.md: file not listed in CORPUS_INDEX.md
+    FINDING [stale] old_plan.md: line 3 marked stale with no pointer to current truth
+    info    [stale] unlisted_note.md: line 3 has open marker (TODO)
+    scanned 6 files: 6 findings, 1 info
+
 You will see 6 findings: two broken links, a non-ASCII character, a
 phantom index entry, an unindexed file, and a deprecated document with
 no pointer to its replacement. Then open `demo_corpus/pricing_2025.md`
