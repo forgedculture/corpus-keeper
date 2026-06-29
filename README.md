@@ -71,6 +71,15 @@ CLI, and Copilot, plus governance templates and support.
 The kit, and the methodology behind it, live at
 [forgedculture.com](https://forgedculture.com).
 
+## Want it run for you?
+
+If you would rather hand the whole thing off, the Truth Audit runs
+this protocol on one real corpus and hands back an executive-ready
+findings report: contradictions, stale truth, undocumented decisions,
+mechanical rot, and the fix order by blast radius, plus the governance
+scaffold left in place. Fixed scope, one corpus, one readout. Details
+at https://forgedculture.com/truth-audit
+
 ## Requirements and license
 
 Python 3.8+, standard library only. Apache 2.0 (see LICENSE).
