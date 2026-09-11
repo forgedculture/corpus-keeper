@@ -61,15 +61,18 @@ edit.
 
 ## The semantic layer
 
-The auditor catches rot of form. Rot of meaning - contradictions
-between documents, a stale doc that still looks current, a change
-nobody recorded a decision for - needs a reader. The Corpus Keeper
-kit wires your AI assistant to do that pass: a Claude skill, a
-ChatGPT Custom GPT setup, and an AGENTS.md for Codex, Cursor, Gemini
-CLI, and Copilot, plus governance templates and support.
+The free auditor and governance scaffold above remain available without
+buying the kit. Reviewing contradictions, superseded documents and
+undocumented changes still requires judgment.
 
-The kit, and the methodology behind it, live at
-[forgedculture.com](https://forgedculture.com).
+The optional [$39 Corpus Keeper Kit](https://forgedculture.com/b/n4BaJ)
+packages assistant-review instructions - a Claude skill, ChatGPT Custom
+GPT setup instructions and an AGENTS.md adapter - with a ready-made
+governed folder.
+
+Configure your chosen assistant to load the instructions, review its
+findings, and decide which document governs. A clean mechanical audit
+does not establish that the documents are current or true.
 
 ## Want it run for you?
 
