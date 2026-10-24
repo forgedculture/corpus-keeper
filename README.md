@@ -14,6 +14,10 @@ Corpus Keeper is a zero-dependency auditor and governance scaffold for
 any folder of documents that you, your team, or your AI treats as
 ground truth.
 
+The auditor is free. If you want assistant setup instructions, source-governance
+templates and practice corpora, the optional [Corpus Keeper Kit ($39)](https://forgedculture.com/b/n4BaJ)
+is a self-service download, not a managed service.
+
 ## Try it in sixty seconds
 
     git clone https://github.com/forgedculture/corpus-keeper
