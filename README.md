@@ -18,6 +18,8 @@ The auditor is free. If you want assistant setup instructions, source-governance
 templates and practice corpora, the optional [Corpus Keeper Kit ($39)](https://forgedculture.com/b/n4BaJ)
 is a self-service download, not a managed service.
 
+The kit is also available through the [Heron shop](https://shop.theherongroupllc.com/products/corpus-keeper-kit?utm_source=github&utm_medium=referral&utm_campaign=corpus_keeper_cli).
+
 ## Try it in sixty seconds
 
     git clone https://github.com/forgedculture/corpus-keeper
